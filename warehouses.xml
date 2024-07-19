@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Warehouse Identifier="1">
+    <name>Лебедушка</name>
+    <SparePartRecord>
+        <PartId>3</PartId>
+        <Name>РПМ В СБОРЕ 2121</Name>
+        <Quantity>4</Quantity>
+        <DeliveryDate>2024-07-17</DeliveryDate>
+    </SparePartRecord>
+</Warehouse>
+<Warehouse Identifier="2">
+    <name>Тверь</name>
+    <SparePartRecord>
+        <PartId>1</PartId>
+        <Name>РПМ В СБОРЕ 2123</Name>
+        <Quantity>32</Quantity>
+        <DeliveryDate>2024-07-17</DeliveryDate>
+    </SparePartRecord>
+    <SparePartRecord>
+        <PartId>2</PartId>
+        <Name>РЗМ В СБОРЕ 2121</Name>
+        <Quantity>8</Quantity>
+        <DeliveryDate>2024-07-17</DeliveryDate>
+    </SparePartRecord>
+</Warehouse>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SparePartGroup Identifier="1">
+    <Name>Двигатель</Name>
+</SparePartGroup>
+<SparePartGroup Identifier="2">
+    <Name>Трансмиссия</Name>
+</SparePartGroup>

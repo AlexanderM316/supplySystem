@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SparePart Identifier="1">
+    <Name>РПМ В СБОРЕ 2123</Name>
+    <Price>13000</Price>
+    <Mass>12</Mass>
+    <Dimensions>0.4 x 0.4 x 0.5</Dimensions>
+    <Group>Двигатель</Group>
+</SparePart>
+<SparePart Identifier="2">
+    <Name>РЗМ В СБОРЕ 2121</Name>
+    <Price>9000</Price>
+    <Mass>10</Mass>
+    <Dimensions>0.3 x 0.3 x 0.4</Dimensions>
+    <Group>Трансмиссия</Group>
+</SparePart>
+<SparePart Identifier="3">
+    <Name>РПМ В СБОРЕ 2121</Name>
+    <Price>10200</Price>
+    <Mass>11.5</Mass>
+    <Dimensions>0.4 x 0.4 x 0.3</Dimensions>
+    <Group>Трансмиссия</Group>
+</SparePart>
